@@ -1,9 +1,10 @@
-Hi, I'm Sergey, a seasoned web developer with over 7 years of experience. Passionate about coding, I thrive in remote settings, crafting elegant and efficient solutions.
+
+# Hi, I'm Sergey 👋
 
 ---
 
 ## 🌐 About Me
-As a web development enthusiast, my journey has been marked by a continuous pursuit of learning and growth. Remote work is not just a job format for me; it's a lifestyle that I've embraced wholeheartedly.
+A seasoned web developer with over 7 years of experience. Passionate about coding, crafting elegant and efficient solutions. As a web development enthusiast, my journey has been marked by a continuous pursuit of learning and growth. Remote work is not just a job format for me; it's a lifestyle that I've embraced wholeheartedly.
 
 ## 🛠 Technology Stack
 - **Languages & Frameworks:** PHP 7/8, Symfony 5/6, Drupal 8/9, JavaScript (ES6), TypeScript
