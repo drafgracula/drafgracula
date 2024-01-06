@@ -27,8 +27,8 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 
 ## 🚀 Work Experience
 - **[panfilov.digital](https://www.panfilov.digital)** - Backend PHP Developer
-- **Drupal Jedi / Freelance** - Middle Full Stack Developer
-- **FirstVDS** - Junior Full Stack Developer
+- **[Drupal Jedi](https://www.drupal.org/u/drupal_jedi)** - Middle Full Stack Developer
+- **[FirstVDS](https://firstvds.ru/)** - Junior Full Stack Developer
 - **SpsMediaLife / Freelance** - Junior Frontend
 
 ## 📚 Stack Proficiency
@@ -43,9 +43,9 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 [![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=drafgracula)](https://github.com/drafgracula/github-readme-stats)
 
 ### 📫 How to Reach Me
-- **Email:** [sergyio.od@gmail.com](mailto:sergyio.od@gmail.com)
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/sergey-latyshev/)
-- **Telegram:** [My Telegram](https://t.me/odinov_s)
+- **[Email](mailto:sergyio.od@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/sergey-latyshev/)**
+- **[Telegram](https://t.me/odinov_s)**
 
 ---
 
