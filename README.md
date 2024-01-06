@@ -1,6 +1,4 @@
-
 # Hi, I'm Sergey 👋
-
 ---
 
 ## 🌐 About Me
