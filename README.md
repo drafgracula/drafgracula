@@ -28,7 +28,7 @@ As a web development enthusiast, my journey has been marked by a continuous purs
 - **Adaptability & Learning:** Eager to learn new technologies and adapt to changes.
 
 ## 🚀 Work Experience
-- **[panfilov.digital](https://www.notion.so/panfilov-digital-8c22747a04464d9495612e99c27f5a6c?pvs=21)** - Backend Developer
+- **[panfilov.digital](https://www.panfilov.digital)** - Backend PHP Developer
 - **Drupal Jedi / Freelance** - Middle Full Stack Developer
 - **FirstVDS** - Junior Full Stack Developer
 - **SpsMediaLife / Freelance** - Junior Frontend
@@ -42,11 +42,11 @@ As a web development enthusiast, my journey has been marked by a continuous purs
 ---
 
 ### 📈 GitHub Stats
-[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=drafgracula)](https://github.com/drafgracula/github-readme-stats)
 
 ### 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
+- **Email:** [sergyio.od@gmail.com](mailto:sergyio.od@gmail.com)
+- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sergey-latyshev/))
 
 ---
 
