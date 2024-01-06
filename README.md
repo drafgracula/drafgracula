@@ -1,6 +1,6 @@
 # Hi, I'm Sergey 👋
 
-Welcome to my personal GitHub profile! [Current corporate profile here](https://github.com/latsergey)
+Welcome to my personal GitHub profile!
 
 ## 🌐 About Me
 A seasoned web developer with over 7 years of experience. Passionate about coding, crafting elegant and efficient solutions. As a web development enthusiast, my journey has been marked by a continuous pursuit of learning and growth. Remote work is not just a job format for me; it's a lifestyle that I've embraced wholeheartedly.
