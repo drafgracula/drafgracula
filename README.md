@@ -1,4 +1,7 @@
 # Hi, I'm Sergey 👋
+
+Welcome to my professional GitHub profile!
+
 ---
 
 ## 🌐 About Me
