@@ -1,6 +1,4 @@
-# Sergey Latyshev's CV
-
-Welcome to my professional GitHub profile! I'm Sergey, a seasoned web developer with over 7 years of experience. Passionate about coding, I thrive in remote settings, crafting elegant and efficient solutions.
+Hi, I'm Sergey, a seasoned web developer with over 7 years of experience. Passionate about coding, I thrive in remote settings, crafting elegant and efficient solutions.
 
 ---
 
@@ -46,7 +44,8 @@ As a web development enthusiast, my journey has been marked by a continuous purs
 
 ### 📫 How to Reach Me
 - **Email:** [sergyio.od@gmail.com](mailto:sergyio.od@gmail.com)
-- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sergey-latyshev/))
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/sergey-latyshev/)
+- **Telegram:** [My Telegram](https://t.me/odinov_s)
 
 ---
 
