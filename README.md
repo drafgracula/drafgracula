@@ -11,7 +11,7 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 - **[Telegram](https://t.me/odinov_s)**
 
 ### 📙 Read more about work experience
-- **[HERE]([mailto:sergyio.od@gmail.com](https://www.notion.so/CV-Latyshev-Sergey-PHP-Developer-ef39ee834e0f42d38163a04e2681cd1d))**
+- **[HERE](https://www.notion.so/CV-Latyshev-Sergey-PHP-Developer-ef39ee834e0f42d38163a04e2681cd1d)**
 
 ## 🛠 Technology Stack
 - **Languages & Frameworks:** PHP 7/8, Symfony 5/6, Drupal 8/9, JavaScript (ES6), TypeScript
