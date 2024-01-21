@@ -21,24 +21,6 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 - **Front-End:** HTML, CSS, SCSS, SASS, Adaptive Layout
 - **Operating System:** Linux Mint
 
-## 💡 Development Preferences
-- **Code Philosophy:** Writing code for humans, focusing on readability and maintainability.
-- **Design Patterns:** Using OOP, SOLID principles, and design patterns for structured and efficient coding.
-- **Architecture:** Employing DDD and hexagonal architecture for clean separation of concerns.
-- **Testing:** Advocating TDD for robust and reliable code.
-
-## 🤝 Soft Skills
-- **Remote Work Mastery:** Proficient in managing time and meeting deadlines remotely.
-- **Teamwork & Communication:** Collaborative, respectful, and open to giving/receiving feedback.
-- **Problem-Solving:** Skilled in identifying and implementing effective solutions.
-- **Adaptability & Learning:** Eager to learn new technologies and adapt to changes.
-
-## 🚀 Work Experience
-- **[panfilov.digital](https://www.panfilov.digital)** - Backend PHP Developer
-- **[Drupal Jedi](https://www.drupal.org/u/drupal_jedi)** - Middle Full Stack Developer
-- **[FirstVDS](https://firstvds.ru/)** - Junior Full Stack Developer
-- **SpsMediaLife / Freelance** - Junior Frontend
-
 ## 📚 Stack Proficiency
 - **PHP:** Over 5 years
 - **Front-End Technologies:** Over 3 years (JS, CSS, HTML, Less, SASS/SCSS)
@@ -48,7 +30,7 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 ---
 
 ### 📈 GitHub Stats
-[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=drafgracula)](https://github.com/drafgracula/github-readme-stats)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=drafgracula)](https://github.com/lasergyio/github-readme-stats)
 
 ---
 
