@@ -30,7 +30,7 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 ---
 
 ### 📈 GitHub Stats
-[Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasergyio)
+[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasergyio)](https://github.com/lasergyio/github-readme-stats)
 
 ---
 
