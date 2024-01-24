@@ -8,7 +8,7 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 ### 📫 How to Reach Me
 - **[Email](mailto:sergyio.od@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/sergey-latyshev/)**
-- **[Telegram](https://t.me/odinov_s)**
+- **[Telegram](https://t.me/lasergyio)**
 
 ### 📙 Read more about work experience
 - **[HERE](https://www.notion.so/CV-Latyshev-Sergey-PHP-Developer-ef39ee834e0f42d38163a04e2681cd1d)**
