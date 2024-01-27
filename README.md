@@ -16,7 +16,7 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 ## 🛠 Technology Stack
 - **Languages & Frameworks:** PHP 7/8, Symfony 5/6, Drupal 8/9, JavaScript (ES6), TypeScript
 - **Web Servers:** Nginx, Apache
-- **Databases:** SQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Redis, RabbitMQ, Vue 2, Vuex, Node.js, Docker, docker-compose, WebPack
 - **Front-End:** HTML, CSS, SCSS, SASS, Adaptive Layout
 - **Operating System:** Linux Mint
