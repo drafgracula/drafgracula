@@ -14,17 +14,12 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 - **[HERE](https://www.notion.so/CV-Latyshev-Sergey-PHP-Developer-ef39ee834e0f42d38163a04e2681cd1d)**
 
 ## 🛠 Technology Stack
-- **Languages & Frameworks:** PHP 7/8, Symfony 5/6, Drupal 8/9, JavaScript (ES6), TypeScript
+- **Languages & Frameworks:** PHP, Symfony, Drupal, JavaScript(ES6), TypeScript
 - **Web Servers:** Nginx, Apache
 - **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Redis, RabbitMQ, Vue 2, Vuex, Node.js, Docker, docker-compose, WebPack
-- **Front-End:** HTML, CSS, SCSS, SASS, Adaptive Layout
+- **Tools & Platforms:** Redis, RabbitMQ, Node.js, Docker, docker-compose
+- **Front-End:** Vue.js, HTML, CSS, SCSS, SASS, Adaptive Layout
 - **Operating System:** Linux Mint
-
-## 📚 Stack Proficiency
-- **PHP:** Over 5 years
-- **Front-End Technologies:** Over 3 years (JS, CSS, HTML, Less, SASS/SCSS)
-- **TypeScript & Vue2:** 1 year
 
 ---
 
