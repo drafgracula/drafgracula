@@ -25,7 +25,6 @@ A seasoned web developer with over 7 years of experience. Passionate about codin
 - **PHP:** Over 5 years
 - **Front-End Technologies:** Over 3 years (JS, CSS, HTML, Less, SASS/SCSS)
 - **TypeScript & Vue2:** 1 year
-- **Docker:** Over 4 years
 
 ---
 
